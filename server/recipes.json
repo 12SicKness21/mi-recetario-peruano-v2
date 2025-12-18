@@ -1,0 +1,3572 @@
+[
+  {
+    "id": 1,
+    "nombre": "Causa Acevichada",
+    "fuente": "https://youtu.be/c2WpDG4O1gI?list=TLGGK1frHjmevTUxODEyMjAyNQ",
+    "totalIngredientes": [
+      "Pescado",
+      "Papa amarilla",
+      "Aceite vegetal",
+      "Pasta de aj� con ajo confitado",
+      "Jugo de lim�n",
+      "Sal",
+      "Mermas de pescado",
+      "Cebolla morada",
+      "Apio",
+      "Kion",
+      "Ajo",
+      "Aj� limo",
+      "Agua de cebolla",
+      "Hielo",
+      "Tallo de culantro",
+      "Lomito de pescado",
+      "Rocoto",
+      "Culantro",
+      "Cebolla",
+      "Mayonesa",
+      "Tomates",
+      "Palta",
+      "Alcaparras",
+      "Aceite de oliva"
+    ],
+    "componentes": [
+      {
+        "nombre": "Masa de Causa",
+        "ingredientesPrincipales": [
+          "Pescado"
+        ],
+        "ingredientesNormales": [
+          "Papa amarilla",
+          "Aceite vegetal",
+          "Pasta de aj� con ajo confitado",
+          "Jugo de lim�n",
+          "Sal"
+        ]
+      },
+      {
+        "nombre": "Leche de Tigre",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Mermas de pescado",
+          "Cebolla morada",
+          "Apio",
+          "Kion",
+          "Ajo",
+          "Aj� limo",
+          "Sal",
+          "Agua de cebolla",
+          "Jugo de lim�n",
+          "Hielo",
+          "Tallo de culantro"
+        ]
+      },
+      {
+        "nombre": "Ceviche",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Lomito de pescado",
+          "Sal",
+          "Rocoto",
+          "Culantro",
+          "Aj� limo",
+          "Cebolla",
+          "Jugo de lim�n",
+          "Mayonesa",
+          "Tomates",
+          "Palta",
+          "Alcaparras",
+          "Aceite de oliva"
+        ]
+      }
+    ],
+    "totalPrincipales": [
+      "Pescado"
+    ],
+    "totalNormales": [
+      "Papa amarilla",
+      "Aceite vegetal",
+      "Pasta de aj� con ajo confitado",
+      "Jugo de lim�n",
+      "Sal",
+      "Mermas de pescado",
+      "Cebolla morada",
+      "Apio",
+      "Kion",
+      "Ajo",
+      "Aj� limo",
+      "Agua de cebolla",
+      "Hielo",
+      "Tallo de culantro",
+      "Lomito de pescado",
+      "Rocoto",
+      "Culantro",
+      "Cebolla",
+      "Mayonesa",
+      "Tomates",
+      "Palta",
+      "Alcaparras",
+      "Aceite de oliva"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Escabeche de Pollo",
+    "fuente": "https://youtu.be/n_KcvQzoXCY?list=TLGGaSCUkpcZCM4xODEyMjAyNQ",
+    "totalIngredientes": [
+      "Pollo",
+      "Salmuera",
+      "Jugo de lim�n",
+      "Comino",
+      "Pimienta",
+      "Harina",
+      "Aceite",
+      "Aceite de oliva",
+      "Ajo",
+      "Aj� panca",
+      "Laurel",
+      "Or�gano fresco",
+      "Vinagre tinto",
+      "Az�car",
+      "Caldo de pollo",
+      "Aj� amarillo",
+      "Cebolla morada",
+      "Huevo duro",
+      "Aceitunas"
+    ],
+    "componentes": [
+      {
+        "nombre": "Pollo",
+        "ingredientesPrincipales": [
+          "Pollo"
+        ],
+        "ingredientesNormales": [
+          "Pollo",
+          "Salmuera",
+          "Jugo de lim�n",
+          "Comino",
+          "Pimienta",
+          "Harina",
+          "Aceite"
+        ]
+      },
+      {
+        "nombre": "Salsa",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Aceite de oliva",
+          "Ajo",
+          "Aj� panca",
+          "Laurel",
+          "Or�gano fresco",
+          "Vinagre tinto",
+          "Az�car",
+          "Caldo de pollo",
+          "Aj� amarillo",
+          "Cebolla morada",
+          "Huevo duro",
+          "Aceitunas"
+        ]
+      }
+    ],
+    "totalPrincipales": [
+      "Pollo"
+    ],
+    "totalNormales": [
+      "Pollo",
+      "Salmuera",
+      "Jugo de lim�n",
+      "Comino",
+      "Pimienta",
+      "Harina",
+      "Aceite",
+      "Aceite de oliva",
+      "Ajo",
+      "Aj� panca",
+      "Laurel",
+      "Or�gano fresco",
+      "Vinagre tinto",
+      "Az�car",
+      "Caldo de pollo",
+      "Aj� amarillo",
+      "Cebolla morada",
+      "Huevo duro",
+      "Aceitunas"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Estofado de Pollo",
+    "fuente": "https://youtu.be/HXpfoBcTLcc?list=TLGGh_xkr_NSSmUxODEyMjAyNQ",
+    "totalIngredientes": [
+      "Pollo",
+      "Carcasa de aves",
+      "Cebolla",
+      "Ajo",
+      "Perejil",
+      "Laurel",
+      "Zanahoria",
+      "Apio",
+      "Aceite",
+      "Hongo seco",
+      "Or�gano",
+      "Sal",
+      "Comino",
+      "Pimienta",
+      "Aj� panca",
+      "Pasta de tomate",
+      "Tomate rallado",
+      "Vino blanco",
+      "Papa",
+      "Caldo",
+      "Pasa",
+      "Alverjita",
+      "Arroz"
+    ],
+    "componentes": [
+      {
+        "nombre": "Fondo",
+        "ingredientesPrincipales": [
+          "Pollo"
+        ],
+        "ingredientesNormales": [
+          "Carcasa de aves",
+          "Cebolla",
+          "Ajo",
+          "Perejil",
+          "Laurel",
+          "Zanahoria",
+          "Apio"
+        ]
+      },
+      {
+        "nombre": "Guiso",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Pollo",
+          "Aceite",
+          "Cebolla",
+          "Ajo",
+          "Laurel",
+          "Hongo seco",
+          "Or�gano",
+          "Sal",
+          "Comino",
+          "Pimienta",
+          "Aj� panca",
+          "Pasta de tomate",
+          "Tomate rallado",
+          "Vino blanco",
+          "Papa",
+          "Zanahoria",
+          "Caldo",
+          "Pasa",
+          "Alverjita",
+          "Perejil"
+        ]
+      },
+      {
+        "nombre": "Arroz",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Aceite",
+          "Ajo",
+          "Sal",
+          "Arroz"
+        ]
+      }
+    ],
+    "totalPrincipales": [
+      "Pollo"
+    ],
+    "totalNormales": [
+      "Carcasa de aves",
+      "Cebolla",
+      "Ajo",
+      "Perejil",
+      "Laurel",
+      "Zanahoria",
+      "Apio",
+      "Pollo",
+      "Aceite",
+      "Hongo seco",
+      "Or�gano",
+      "Sal",
+      "Comino",
+      "Pimienta",
+      "Aj� panca",
+      "Pasta de tomate",
+      "Tomate rallado",
+      "Vino blanco",
+      "Papa",
+      "Caldo",
+      "Pasa",
+      "Alverjita",
+      "Arroz"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Arroz Tapado a lo Pobre",
+    "fuente": "https://youtu.be/lt-47IbBpo4?list=TLGGNqtLVMiFgOwxODEyMjAyNQ",
+    "totalIngredientes": [
+      "Carne",
+      "carne picada",
+      "Manteca",
+      "Pasta de ajo",
+      "Sal",
+      "Arroz (a�ejo)",
+      "Carne picada o molida",
+      "Pimienta molida",
+      "Comino molido",
+      "Cebolla",
+      "Pasta de aj� panca",
+      "Tomate",
+      "Pasas",
+      "Laurel",
+      "Caldo",
+      "Arvejas",
+      "Perejil",
+      "Culantrillo",
+      "Aceitunas",
+      "Or�gano seco",
+      "Pl�tano maduro",
+      "Huevo"
+    ],
+    "componentes": [
+      {
+        "nombre": "Arroz",
+        "ingredientesPrincipales": [
+          "Carne",
+          "carne picada"
+        ],
+        "ingredientesNormales": [
+          "Manteca",
+          "Pasta de ajo",
+          "Sal",
+          "Arroz (a�ejo)"
+        ]
+      },
+      {
+        "nombre": "Relleno",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Manteca",
+          "Carne picada o molida",
+          "Sal",
+          "Pimienta molida",
+          "Comino molido",
+          "Cebolla",
+          "Pasta de ajo",
+          "Pasta de aj� panca",
+          "Tomate",
+          "Pasas",
+          "Laurel",
+          "Caldo",
+          "Arvejas",
+          "Perejil",
+          "Culantrillo",
+          "Aceitunas",
+          "Or�gano seco"
+        ]
+      },
+      {
+        "nombre": "Armado",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Pl�tano maduro",
+          "Huevo",
+          "Perejil"
+        ]
+      }
+    ],
+    "totalPrincipales": [
+      "Carne",
+      "carne picada"
+    ],
+    "totalNormales": [
+      "Manteca",
+      "Pasta de ajo",
+      "Sal",
+      "Arroz (a�ejo)",
+      "Carne picada o molida",
+      "Pimienta molida",
+      "Comino molido",
+      "Cebolla",
+      "Pasta de aj� panca",
+      "Tomate",
+      "Pasas",
+      "Laurel",
+      "Caldo",
+      "Arvejas",
+      "Perejil",
+      "Culantrillo",
+      "Aceitunas",
+      "Or�gano seco",
+      "Pl�tano maduro",
+      "Huevo"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Arroz a la jardinera con seco",
+    "fuente": "https://youtu.be/PYkiEwJM9Hg",
+    "totalIngredientes": [
+      "Pollo",
+      "Sal",
+      "Pimienta",
+      "Comino",
+      "Aceite",
+      "Cebolla",
+      "Ajo",
+      "Pasta de ají amarillo",
+      "Espinaca",
+      "Chicha de jora",
+      "Loche",
+      "Pimiento rojo",
+      "Cerveza negra",
+      "Cerveza rubia",
+      "Laurel",
+      "Zanahoria",
+      "Arvejita",
+      "Papa blanca",
+      "Mantequilla",
+      "Palillo",
+      "Arroz",
+      "Agua",
+      "Choclo"
+    ],
+    "componentes": [
+      {
+        "nombre": "Seco (Guiso)",
+        "ingredientes": [
+          "Pollo",
+          "Sal",
+          "Pimienta",
+          "Comino",
+          "Aceite",
+          "Cebolla",
+          "Ajo",
+          "Pasta de ají amarillo",
+          "Espinaca",
+          "Chicha de jora",
+          "Loche",
+          "Pimiento rojo",
+          "Cerveza negra",
+          "Cerveza rubia",
+          "Laurel",
+          "Zanahoria",
+          "Arvejita",
+          "Papa blanca"
+        ]
+      },
+      {
+        "nombre": "Arroz",
+        "ingredientes": [
+          "Mantequilla",
+          "Ajo",
+          "Palillo",
+          "Pasta de ají amarillo",
+          "Arroz",
+          "Agua",
+          "Laurel",
+          "Sal",
+          "Arvejita",
+          "Zanahoria",
+          "Choclo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Ají de Gallina",
+    "fuente": "https://youtu.be/UdnT9ka7yAk",
+    "totalIngredientes": [
+      "Agua",
+      "Zanahoria",
+      "Poro",
+      "Apio",
+      "Ajo",
+      "Sal",
+      "Pollo",
+      "Ají amarillo fresco",
+      "Pan francés",
+      "Caldo de pollo",
+      "Aceite vegetal",
+      "Cebolla roja",
+      "Comino",
+      "Pasta de ají mirasol",
+      "Pasta de ají panca",
+      "Leche evaporada",
+      "Queso Parmesano",
+      "Nuez moscada",
+      "Papa amarilla",
+      "Arroz",
+      "Pecanas",
+      "Perejil",
+      "Aceitunas negras",
+      "Huevo duro"
+    ],
+    "componentes": [
+      {
+        "nombre": "Caldo Base",
+        "ingredientes": [
+          "Agua",
+          "Zanahoria",
+          "Poro",
+          "Apio",
+          "Ajo",
+          "Sal",
+          "Pollo"
+        ]
+      },
+      {
+        "nombre": "Pasta de Ají",
+        "ingredientes": [
+          "Ají amarillo fresco",
+          "Agua"
+        ]
+      },
+      {
+        "nombre": "Pan",
+        "ingredientes": [
+          "Pan francés",
+          "Caldo de pollo"
+        ]
+      },
+      {
+        "nombre": "Aderezo y Crema",
+        "ingredientes": [
+          "Aceite vegetal",
+          "Cebolla roja",
+          "Sal",
+          "Ajo",
+          "Comino",
+          "Pasta de ají amarillo",
+          "Pasta de ají mirasol",
+          "Pasta de ají panca",
+          "Pan hidratado",
+          "Pollo desmenuzado",
+          "Leche evaporada",
+          "Queso Parmesano",
+          "Nuez moscada"
+        ]
+      },
+      {
+        "nombre": "Servicio",
+        "ingredientes": [
+          "Papa amarilla",
+          "Arroz",
+          "Pecanas",
+          "Queso parmesano",
+          "Perejil",
+          "Aceitunas negras",
+          "Huevo duro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Locro de Zapallo",
+    "fuente": "https://youtu.be/gJlw6cQQ1yE?list=TLGGvNRgmVdXLU4xODEyMjAyNQ",
+    "totalIngredientes": [
+      "Zapallo",
+      "Aceite",
+      "Cebolla roja",
+      "Pasta de ajo",
+      "Comino",
+      "Palillo/C�rcuma",
+      "Pimienta",
+      "Pasta de aj� amarillo",
+      "Zapallo macre",
+      "Zapallo loche",
+      "Papa blanca",
+      "Papa amarilla",
+      "Caldo",
+      "Guacatay",
+      "Choclo",
+      "Habas",
+      "Arvejitas",
+      "Queso fresco",
+      "Leche"
+    ],
+    "componentes": [
+      {
+        "nombre": "Locro",
+        "ingredientesPrincipales": [
+          "Zapallo"
+        ],
+        "ingredientesNormales": [
+          "Aceite",
+          "Cebolla roja",
+          "Pasta de ajo",
+          "Comino",
+          "Palillo/C�rcuma",
+          "Pimienta",
+          "Pasta de aj� amarillo",
+          "Zapallo macre",
+          "Zapallo loche",
+          "Papa blanca",
+          "Papa amarilla",
+          "Caldo",
+          "Guacatay",
+          "Choclo",
+          "Habas",
+          "Arvejitas",
+          "Queso fresco",
+          "Leche"
+        ]
+      }
+    ],
+    "totalPrincipales": [
+      "Zapallo"
+    ],
+    "totalNormales": [
+      "Aceite",
+      "Cebolla roja",
+      "Pasta de ajo",
+      "Comino",
+      "Palillo/C�rcuma",
+      "Pimienta",
+      "Pasta de aj� amarillo",
+      "Zapallo macre",
+      "Zapallo loche",
+      "Papa blanca",
+      "Papa amarilla",
+      "Caldo",
+      "Guacatay",
+      "Choclo",
+      "Habas",
+      "Arvejitas",
+      "Queso fresco",
+      "Leche"
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Arroz con Pollo",
+    "fuente": "https://youtu.be/FzgZagnHcqQ?list=TLGGQrZ1o6fYKucxODEyMjAyNQ",
+    "totalIngredientes": [
+      "Pollo",
+      "Sal",
+      "Pimienta",
+      "Comino",
+      "Aceite",
+      "Cebolla",
+      "Ajo",
+      "Pasta de aj� amarillo",
+      "Culantro",
+      "Pimiento",
+      "Cerveza negra",
+      "Caldo de pollo",
+      "Zanahoria",
+      "Arvejita",
+      "Choclo",
+      "Arroz",
+      "Tomate",
+      "Aj� amarillo",
+      "Aj� limo",
+      "Pepino",
+      "Palta",
+      "Aceite de oliva",
+      "Lim�n",
+      "Vinagre"
+    ],
+    "componentes": [
+      {
+        "nombre": "Guiso",
+        "ingredientesPrincipales": [
+          "Pollo"
+        ],
+        "ingredientesNormales": [
+          "Pollo",
+          "Sal",
+          "Pimienta",
+          "Comino",
+          "Aceite",
+          "Cebolla",
+          "Ajo",
+          "Pasta de aj� amarillo",
+          "Culantro",
+          "Pimiento",
+          "Cerveza negra",
+          "Caldo de pollo",
+          "Zanahoria",
+          "Arvejita",
+          "Choclo",
+          "Arroz"
+        ]
+      },
+      {
+        "nombre": "Salsa Criolla",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Cebolla",
+          "Tomate",
+          "Aj� amarillo",
+          "Aj� limo",
+          "Pepino",
+          "Palta",
+          "Aceite de oliva",
+          "Lim�n",
+          "Sal",
+          "Pimienta",
+          "Vinagre"
+        ]
+      }
+    ],
+    "totalPrincipales": [
+      "Pollo"
+    ],
+    "totalNormales": [
+      "Pollo",
+      "Sal",
+      "Pimienta",
+      "Comino",
+      "Aceite",
+      "Cebolla",
+      "Ajo",
+      "Pasta de aj� amarillo",
+      "Culantro",
+      "Pimiento",
+      "Cerveza negra",
+      "Caldo de pollo",
+      "Zanahoria",
+      "Arvejita",
+      "Choclo",
+      "Arroz",
+      "Tomate",
+      "Aj� amarillo",
+      "Aj� limo",
+      "Pepino",
+      "Palta",
+      "Aceite de oliva",
+      "Lim�n",
+      "Vinagre"
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Asado de Pavita",
+    "fuente": "https://youtu.be/ETnh_6lsWA4?list=TLGGDlaPwamSyfIxODEyMjAyNQ",
+    "totalIngredientes": [
+      "Pavita",
+      "pavo",
+      "Pavo (muslo de pavita)",
+      "Sal",
+      "Pasta de aj� panca",
+      "Pimienta",
+      "Comino",
+      "Romero",
+      "Ajo",
+      "Vino tinto",
+      "Manteca/Aceite",
+      "Cebolla",
+      "Hongos",
+      "Laurel",
+      "Caldo",
+      "Pasta de tomate",
+      "Papa amarilla",
+      "Manteca",
+      "Choclo",
+      "Arroz",
+      "Brocoli",
+      "Zanahoria",
+      "Vainitas"
+    ],
+    "componentes": [
+      {
+        "nombre": "Pavita",
+        "ingredientesPrincipales": [
+          "Pavita",
+          "pavo"
+        ],
+        "ingredientesNormales": [
+          "Pavo (muslo de pavita)",
+          "Sal",
+          "Pasta de aj� panca",
+          "Pimienta",
+          "Comino",
+          "Romero",
+          "Ajo",
+          "Vino tinto"
+        ]
+      },
+      {
+        "nombre": "Aderezo",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Manteca/Aceite",
+          "Cebolla",
+          "Ajo",
+          "Pasta de aj� panca",
+          "Hongos",
+          "Laurel",
+          "Caldo",
+          "Pasta de tomate",
+          "Papa amarilla"
+        ]
+      },
+      {
+        "nombre": "Arroz",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Manteca",
+          "Ajo",
+          "Sal",
+          "Choclo",
+          "Arroz"
+        ]
+      },
+      {
+        "nombre": "Ensalada",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Brocoli",
+          "Zanahoria",
+          "Vainitas",
+          "Sal"
+        ]
+      }
+    ],
+    "totalPrincipales": [
+      "Pavita",
+      "pavo"
+    ],
+    "totalNormales": [
+      "Pavo (muslo de pavita)",
+      "Sal",
+      "Pasta de aj� panca",
+      "Pimienta",
+      "Comino",
+      "Romero",
+      "Ajo",
+      "Vino tinto",
+      "Manteca/Aceite",
+      "Cebolla",
+      "Hongos",
+      "Laurel",
+      "Caldo",
+      "Pasta de tomate",
+      "Papa amarilla",
+      "Manteca",
+      "Choclo",
+      "Arroz",
+      "Brocoli",
+      "Zanahoria",
+      "Vainitas"
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Seco de Pollo a la Norte�a",
+    "fuente": "https://youtu.be/PYkiEwJM9Hg?list=TLGGY21txzvvB_YxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Guiso (Seco)",
+        "ingredientesPrincipales": [
+          "Pollo"
+        ],
+        "ingredientesNormales": [
+          "Pollo",
+          "Sal",
+          "Pimienta",
+          "Comino",
+          "Aceite",
+          "Cebolla",
+          "Ajo",
+          "Pasta de aj� amarillo",
+          "Espinaca",
+          "Chicha de jora",
+          "Loche",
+          "Pimiento rojo",
+          "Cerveza negra",
+          "Cerveza rubia",
+          "Laurel",
+          "Zanahoria",
+          "Arvejita",
+          "Papa blanca"
+        ]
+      },
+      {
+        "nombre": "Arroz a la Jardinera",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Mantequilla",
+          "Ajo",
+          "Palillo",
+          "Pasta de aj� amarillo",
+          "Arroz coste�o extra a�ejo",
+          "Laurel",
+          "Sal",
+          "Arvejita",
+          "Zanahoria",
+          "Choclo"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Pollo",
+      "Sal",
+      "Pimienta",
+      "Comino",
+      "Aceite",
+      "Cebolla",
+      "Ajo",
+      "Pasta de aj� amarillo",
+      "Espinaca",
+      "Chicha de jora",
+      "Loche",
+      "Pimiento rojo",
+      "Cerveza negra",
+      "Cerveza rubia",
+      "Laurel",
+      "Zanahoria",
+      "Arvejita",
+      "Papa blanca",
+      "Mantequilla",
+      "Palillo",
+      "Arroz coste�o extra a�ejo",
+      "Choclo"
+    ],
+    "totalPrincipales": [
+      "Pollo"
+    ],
+    "totalNormales": [
+      "Pollo",
+      "Sal",
+      "Pimienta",
+      "Comino",
+      "Aceite",
+      "Cebolla",
+      "Ajo",
+      "Pasta de aj� amarillo",
+      "Espinaca",
+      "Chicha de jora",
+      "Loche",
+      "Pimiento rojo",
+      "Cerveza negra",
+      "Cerveza rubia",
+      "Laurel",
+      "Zanahoria",
+      "Arvejita",
+      "Papa blanca",
+      "Mantequilla",
+      "Palillo",
+      "Arroz coste�o extra a�ejo",
+      "Choclo"
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Guiso de Trigo",
+    "fuente": "https://youtu.be/9eNAT_RE__A?list=TLGG62uP9MKI69cxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Guiso",
+        "ingredientesPrincipales": [
+          "Trigo",
+          "pescado"
+        ],
+        "ingredientesNormales": [
+          "Trigo",
+          "Pasta de aj� amarillo",
+          "Cebolla",
+          "Ajo",
+          "Camar�n deshidratado",
+          "Queso fresco",
+          "Leche",
+          "Hierbabuena",
+          "Culantro",
+          "Aceite",
+          "Pimienta",
+          "Sal"
+        ]
+      },
+      {
+        "nombre": "Pescado",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Filete de pescado (corvina)",
+          "Ajo",
+          "Romero fresco",
+          "Pimienta negra",
+          "Sal",
+          "Aceite vegetal"
+        ]
+      },
+      {
+        "nombre": "Chalaquita",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Tomate",
+          "Cocona",
+          "Cebolla",
+          "Culantro",
+          "Lim�n",
+          "Aj� charapita",
+          "Sal",
+          "Sazonador"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Trigo",
+      "pescado",
+      "Pasta de aj� amarillo",
+      "Cebolla",
+      "Ajo",
+      "Camar�n deshidratado",
+      "Queso fresco",
+      "Leche",
+      "Hierbabuena",
+      "Culantro",
+      "Aceite",
+      "Pimienta",
+      "Sal",
+      "Filete de pescado (corvina)",
+      "Romero fresco",
+      "Pimienta negra",
+      "Aceite vegetal",
+      "Tomate",
+      "Cocona",
+      "Lim�n",
+      "Aj� charapita",
+      "Sazonador"
+    ],
+    "totalPrincipales": [
+      "Trigo",
+      "pescado"
+    ],
+    "totalNormales": [
+      "Trigo",
+      "Pasta de aj� amarillo",
+      "Cebolla",
+      "Ajo",
+      "Camar�n deshidratado",
+      "Queso fresco",
+      "Leche",
+      "Hierbabuena",
+      "Culantro",
+      "Aceite",
+      "Pimienta",
+      "Sal",
+      "Filete de pescado (corvina)",
+      "Romero fresco",
+      "Pimienta negra",
+      "Aceite vegetal",
+      "Tomate",
+      "Cocona",
+      "Lim�n",
+      "Aj� charapita",
+      "Sazonador"
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "Asado de Cerdo",
+    "fuente": "https://youtu.be/RAD8pwYpjLw?list=TLGGyQAFJOFWSqwxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Asado",
+        "ingredientesPrincipales": [
+          "Cerdo",
+          "chancho",
+          "frijol",
+          "frejol"
+        ],
+        "ingredientesNormales": [
+          "Carne de cerdo (pierna)",
+          "Pimienta",
+          "Comino",
+          "Sal",
+          "Aceite vegetal",
+          "Ralladura de naranja",
+          "Romero",
+          "Canela"
+        ]
+      },
+      {
+        "nombre": "Salsa",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Pimiento",
+          "Tomate",
+          "Cebolla morada",
+          "Ajo",
+          "Pasta de aj� amarillo",
+          "Aj� panca",
+          "Sal",
+          "Pimienta",
+          "Cerveza rubia"
+        ]
+      },
+      {
+        "nombre": "Ensalada",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Frijoles",
+          "Perejil",
+          "Ajo",
+          "Or�gano",
+          "Cebolla",
+          "Zanahoria",
+          "Tomate Cherry",
+          "Culantro",
+          "Aj� limo",
+          "Sal",
+          "Lim�n"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Cerdo",
+      "chancho",
+      "frijol",
+      "frejol",
+      "Carne de cerdo (pierna)",
+      "Pimienta",
+      "Comino",
+      "Sal",
+      "Aceite vegetal",
+      "Ralladura de naranja",
+      "Romero",
+      "Canela",
+      "Pimiento",
+      "Tomate",
+      "Cebolla morada",
+      "Ajo",
+      "Pasta de aj� amarillo",
+      "Aj� panca",
+      "Cerveza rubia",
+      "Frijoles",
+      "Perejil",
+      "Or�gano",
+      "Cebolla",
+      "Zanahoria",
+      "Tomate Cherry",
+      "Culantro",
+      "Aj� limo",
+      "Lim�n"
+    ],
+    "totalPrincipales": [
+      "Cerdo",
+      "chancho",
+      "frijol",
+      "frejol"
+    ],
+    "totalNormales": [
+      "Carne de cerdo (pierna)",
+      "Pimienta",
+      "Comino",
+      "Sal",
+      "Aceite vegetal",
+      "Ralladura de naranja",
+      "Romero",
+      "Canela",
+      "Pimiento",
+      "Tomate",
+      "Cebolla morada",
+      "Ajo",
+      "Pasta de aj� amarillo",
+      "Aj� panca",
+      "Cerveza rubia",
+      "Frijoles",
+      "Perejil",
+      "Or�gano",
+      "Cebolla",
+      "Zanahoria",
+      "Tomate Cherry",
+      "Culantro",
+      "Aj� limo",
+      "Lim�n"
+    ]
+  },
+  {
+    "id": 13,
+    "nombre": "Ceviche de Pollo",
+    "fuente": "https://youtu.be/0CnCzeoFSTA?list=TLGGGkDDXBHz7nsxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Guiso (Ceviche)",
+        "ingredientesPrincipales": [
+          "Pollo"
+        ],
+        "ingredientesNormales": [
+          "Piernas con entrepierna de pollo",
+          "Aceite vegetal",
+          "Sal",
+          "Comino",
+          "Pimienta",
+          "Cebolla roja",
+          "Ajo",
+          "Pasta de aj� amarillo",
+          "Cerveza rubia",
+          "Caldo",
+          "Aj� limo",
+          "Lim�n",
+          "Culantro"
+        ]
+      },
+      {
+        "nombre": "Guarnici�n",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Camote amarillo"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Pollo",
+      "Piernas con entrepierna de pollo",
+      "Aceite vegetal",
+      "Sal",
+      "Comino",
+      "Pimienta",
+      "Cebolla roja",
+      "Ajo",
+      "Pasta de aj� amarillo",
+      "Cerveza rubia",
+      "Caldo",
+      "Aj� limo",
+      "Lim�n",
+      "Culantro",
+      "Camote amarillo"
+    ],
+    "totalPrincipales": [
+      "Pollo"
+    ],
+    "totalNormales": [
+      "Piernas con entrepierna de pollo",
+      "Aceite vegetal",
+      "Sal",
+      "Comino",
+      "Pimienta",
+      "Cebolla roja",
+      "Ajo",
+      "Pasta de aj� amarillo",
+      "Cerveza rubia",
+      "Caldo",
+      "Aj� limo",
+      "Lim�n",
+      "Culantro",
+      "Camote amarillo"
+    ]
+  },
+  {
+    "id": 14,
+    "nombre": "Aj� de Gallina",
+    "fuente": "",
+    "componentes": [
+      {
+        "nombre": "Caldo",
+        "ingredientes": [
+          "Zanahoria",
+          "Poro",
+          "Apio",
+          "Ajo",
+          "Sal",
+          "Pollo"
+        ]
+      },
+      {
+        "nombre": "Crema",
+        "ingredientes": [
+          "Aceite vegetal",
+          "Cebolla roja",
+          "Sal",
+          "Ajo",
+          "Comino",
+          "Pasta de aj� amarillo (crudo)",
+          "Pasta de aj� mirasol",
+          "Pasta de aj� panca",
+          "Pan",
+          "Caldo",
+          "Pollo desmenuzado",
+          "Leche evaporada",
+          "Queso parmesano",
+          "Nuez moscada"
+        ]
+      },
+      {
+        "nombre": "Servicio",
+        "ingredientes": [
+          "Papa amarilla o blanca",
+          "Arroz",
+          "Pecanas o nueces",
+          "Queso parmesano",
+          "Perejil",
+          "Aceitunas negras",
+          "Huevo duro"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Zanahoria",
+      "Poro",
+      "Apio",
+      "Ajo",
+      "Sal",
+      "Pollo",
+      "Aceite vegetal",
+      "Cebolla roja",
+      "Comino",
+      "Pasta de aj� amarillo (crudo)",
+      "Pasta de aj� mirasol",
+      "Pasta de aj� panca",
+      "Pan",
+      "Caldo",
+      "Pollo desmenuzado",
+      "Leche evaporada",
+      "Queso parmesano",
+      "Nuez moscada",
+      "Papa amarilla o blanca",
+      "Arroz",
+      "Pecanas o nueces",
+      "Perejil",
+      "Aceitunas negras",
+      "Huevo duro"
+    ]
+  },
+  {
+    "id": 15,
+    "nombre": "Arroz con Pato a la Chiclayana",
+    "fuente": "https://youtu.be/exCFj-8KSKo?list=TLGGX6A_Wdz10z0xODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Pato y Aderezo",
+        "ingredientesPrincipales": [
+          "Pato"
+        ],
+        "ingredientesNormales": [
+          "Pato hembra",
+          "Sal",
+          "Pimienta negra",
+          "Comino",
+          "Aceite",
+          "Grasa de pato",
+          "Cebolla",
+          "Ajo",
+          "Zapallo loche",
+          "Pasta de aj� amarillo",
+          "Culantro licuado",
+          "Chicha de jora (o cerveza)",
+          "Caldo de huesos"
+        ]
+      },
+      {
+        "nombre": "Arroz",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Caldo de pato",
+          "Arroz",
+          "Zapallo loche",
+          "Arvejas",
+          "Sal",
+          "Pimiento"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Pato",
+      "Pato hembra",
+      "Sal",
+      "Pimienta negra",
+      "Comino",
+      "Aceite",
+      "Grasa de pato",
+      "Cebolla",
+      "Ajo",
+      "Zapallo loche",
+      "Pasta de aj� amarillo",
+      "Culantro licuado",
+      "Chicha de jora (o cerveza)",
+      "Caldo de huesos",
+      "Caldo de pato",
+      "Arroz",
+      "Arvejas",
+      "Pimiento"
+    ],
+    "totalPrincipales": [
+      "Pato"
+    ],
+    "totalNormales": [
+      "Pato hembra",
+      "Sal",
+      "Pimienta negra",
+      "Comino",
+      "Aceite",
+      "Grasa de pato",
+      "Cebolla",
+      "Ajo",
+      "Zapallo loche",
+      "Pasta de aj� amarillo",
+      "Culantro licuado",
+      "Chicha de jora (o cerveza)",
+      "Caldo de huesos",
+      "Caldo de pato",
+      "Arroz",
+      "Arvejas",
+      "Pimiento"
+    ]
+  },
+  {
+    "id": 16,
+    "nombre": "Asado Pejerrey con Pasta",
+    "fuente": "https://youtu.be/8u_uxtjLB74?list=TLGGk_gGGIBHkU4xODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Asado",
+        "ingredientesPrincipales": [
+          "Pescado",
+          "pejerrey"
+        ],
+        "ingredientesNormales": [
+          "Asado pejerrey",
+          "Sal",
+          "Pimienta negra",
+          "Aceite",
+          "Poro",
+          "Zanahoria",
+          "Apio",
+          "Ajo",
+          "Pasta de tomate",
+          "Pasta de aj� panca",
+          "Hongos",
+          "Laurel",
+          "Vino tinto",
+          "Fondo/Caldo",
+          "Chu�o"
+        ]
+      },
+      {
+        "nombre": "Pasta a la Crema",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Mantequilla",
+          "Harina",
+          "Leche fresca",
+          "Crema de leche",
+          "Nuez moscada",
+          "Queso parmesano",
+          "Pasta (fetuccini)"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Pescado",
+      "pejerrey",
+      "Asado pejerrey",
+      "Sal",
+      "Pimienta negra",
+      "Aceite",
+      "Poro",
+      "Zanahoria",
+      "Apio",
+      "Ajo",
+      "Pasta de tomate",
+      "Pasta de aj� panca",
+      "Hongos",
+      "Laurel",
+      "Vino tinto",
+      "Fondo/Caldo",
+      "Chu�o",
+      "Mantequilla",
+      "Harina",
+      "Leche fresca",
+      "Crema de leche",
+      "Nuez moscada",
+      "Queso parmesano",
+      "Pasta (fetuccini)"
+    ],
+    "totalPrincipales": [
+      "Pescado",
+      "pejerrey"
+    ],
+    "totalNormales": [
+      "Asado pejerrey",
+      "Sal",
+      "Pimienta negra",
+      "Aceite",
+      "Poro",
+      "Zanahoria",
+      "Apio",
+      "Ajo",
+      "Pasta de tomate",
+      "Pasta de aj� panca",
+      "Hongos",
+      "Laurel",
+      "Vino tinto",
+      "Fondo/Caldo",
+      "Chu�o",
+      "Mantequilla",
+      "Harina",
+      "Leche fresca",
+      "Crema de leche",
+      "Nuez moscada",
+      "Queso parmesano",
+      "Pasta (fetuccini)"
+    ]
+  },
+  {
+    "id": 17,
+    "nombre": "Carapulcra Chinchana",
+    "fuente": "https://youtu.be/a7LaLKSi60I?list=TLGGe5UbT5B-Ts0xODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Carapulcra",
+        "ingredientesPrincipales": [
+          "cerdo",
+          "chancho",
+          "pollo"
+        ],
+        "ingredientesNormales": [
+          "Huesos de cerdo",
+          "Manteca de cerdo",
+          "Ajo",
+          "Comino",
+          "Pasta de aj� panca",
+          "Caldo de chancho",
+          "Man�",
+          "Papa yungay",
+          "Pellejito de cerdo"
+        ]
+      },
+      {
+        "nombre": "Sopa Seca",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Albahaca",
+          "Caldo de pollo",
+          "Aceite vegetal",
+          "Semillas de achiote",
+          "Cebolla roja",
+          "Ajo",
+          "Pechuga de pollo",
+          "Pasta entrefino",
+          "Sal",
+          "Perejil"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "cerdo",
+      "chancho",
+      "pollo",
+      "Huesos de cerdo",
+      "Manteca de cerdo",
+      "Ajo",
+      "Comino",
+      "Pasta de aj� panca",
+      "Caldo de chancho",
+      "Man�",
+      "Papa yungay",
+      "Pellejito de cerdo",
+      "Albahaca",
+      "Caldo de pollo",
+      "Aceite vegetal",
+      "Semillas de achiote",
+      "Cebolla roja",
+      "Pechuga de pollo",
+      "Pasta entrefino",
+      "Sal",
+      "Perejil"
+    ],
+    "totalPrincipales": [
+      "cerdo",
+      "chancho",
+      "pollo"
+    ],
+    "totalNormales": [
+      "Huesos de cerdo",
+      "Manteca de cerdo",
+      "Ajo",
+      "Comino",
+      "Pasta de aj� panca",
+      "Caldo de chancho",
+      "Man�",
+      "Papa yungay",
+      "Pellejito de cerdo",
+      "Albahaca",
+      "Caldo de pollo",
+      "Aceite vegetal",
+      "Semillas de achiote",
+      "Cebolla roja",
+      "Pechuga de pollo",
+      "Pasta entrefino",
+      "Sal",
+      "Perejil"
+    ]
+  },
+  {
+    "id": 18,
+    "nombre": "Arroz Chaufa de Pollo",
+    "fuente": "https://youtu.be/KsGQ7ELnd1M?list=TLGGSo6ShgZPg8cxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Pollo",
+        "ingredientesPrincipales": [
+          "Pollo"
+        ],
+        "ingredientesNormales": [
+          "Pechuga de pollo",
+          "Caldo de pollo en polvo",
+          "Chu�o/Maicena"
+        ]
+      },
+      {
+        "nombre": "Chaufa",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Aceite",
+          "Kion",
+          "Huevo",
+          "Sal",
+          "Arroz (grano largo cocido)",
+          "Az�car",
+          "Salsa de soya (sillao)",
+          "Cebolla china",
+          "Aceite de ajonjol�"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Pollo",
+      "Pechuga de pollo",
+      "Caldo de pollo en polvo",
+      "Chu�o/Maicena",
+      "Aceite",
+      "Kion",
+      "Huevo",
+      "Sal",
+      "Arroz (grano largo cocido)",
+      "Az�car",
+      "Salsa de soya (sillao)",
+      "Cebolla china",
+      "Aceite de ajonjol�"
+    ],
+    "totalPrincipales": [
+      "Pollo"
+    ],
+    "totalNormales": [
+      "Pechuga de pollo",
+      "Caldo de pollo en polvo",
+      "Chu�o/Maicena",
+      "Aceite",
+      "Kion",
+      "Huevo",
+      "Sal",
+      "Arroz (grano largo cocido)",
+      "Az�car",
+      "Salsa de soya (sillao)",
+      "Cebolla china",
+      "Aceite de ajonjol�"
+    ]
+  },
+  {
+    "id": 19,
+    "nombre": "Pollo Saltado",
+    "fuente": "https://youtu.be/PPBTtb0gNbU?list=TLGGvznk1EZz8IsxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Saltado",
+        "ingredientesPrincipales": [
+          "Pollo"
+        ],
+        "ingredientesNormales": [
+          "Cebolla roja",
+          "Tomate",
+          "Aj� amarillo",
+          "Pierna de pollo (con piel)",
+          "Sal",
+          "Pimienta",
+          "Salsa de soya clara (sillao)",
+          "Aceite vegetal",
+          "Vinagre",
+          "Salsa de osti�n",
+          "Caldo de pollo",
+          "Culantro"
+        ]
+      },
+      {
+        "nombre": "Acompa�amiento",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Papas fritas",
+          "Arroz con choclo"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Pollo",
+      "Cebolla roja",
+      "Tomate",
+      "Aj� amarillo",
+      "Pierna de pollo (con piel)",
+      "Sal",
+      "Pimienta",
+      "Salsa de soya clara (sillao)",
+      "Aceite vegetal",
+      "Vinagre",
+      "Salsa de osti�n",
+      "Caldo de pollo",
+      "Culantro",
+      "Papas fritas",
+      "Arroz con choclo"
+    ],
+    "totalPrincipales": [
+      "Pollo"
+    ],
+    "totalNormales": [
+      "Cebolla roja",
+      "Tomate",
+      "Aj� amarillo",
+      "Pierna de pollo (con piel)",
+      "Sal",
+      "Pimienta",
+      "Salsa de soya clara (sillao)",
+      "Aceite vegetal",
+      "Vinagre",
+      "Salsa de osti�n",
+      "Caldo de pollo",
+      "Culantro",
+      "Papas fritas",
+      "Arroz con choclo"
+    ]
+  },
+  {
+    "id": 20,
+    "nombre": "Asado de Tira al Vino Tinto",
+    "fuente": "https://youtu.be/yA92FxmTI2c?list=TLGG9ueM4e3C8YIxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Asado",
+        "ingredientesPrincipales": [
+          "Carne",
+          "costilla"
+        ],
+        "ingredientesNormales": [
+          "Asado de tira",
+          "Sal",
+          "Pimienta negra",
+          "Apio",
+          "Poro",
+          "Ajo",
+          "Zanahoria",
+          "Cebolla roja",
+          "Vino tinto",
+          "Harina",
+          "Tomillo",
+          "Mantequilla"
+        ]
+      },
+      {
+        "nombre": "Pur�",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Papa amarilla",
+          "Leche fresca entera",
+          "Mantequilla fr�a"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Carne",
+      "costilla",
+      "Asado de tira",
+      "Sal",
+      "Pimienta negra",
+      "Apio",
+      "Poro",
+      "Ajo",
+      "Zanahoria",
+      "Cebolla roja",
+      "Vino tinto",
+      "Harina",
+      "Tomillo",
+      "Mantequilla",
+      "Papa amarilla",
+      "Leche fresca entera",
+      "Mantequilla fr�a"
+    ],
+    "totalPrincipales": [
+      "Carne",
+      "costilla"
+    ],
+    "totalNormales": [
+      "Asado de tira",
+      "Sal",
+      "Pimienta negra",
+      "Apio",
+      "Poro",
+      "Ajo",
+      "Zanahoria",
+      "Cebolla roja",
+      "Vino tinto",
+      "Harina",
+      "Tomillo",
+      "Mantequilla",
+      "Papa amarilla",
+      "Leche fresca entera",
+      "Mantequilla fr�a"
+    ]
+  },
+  {
+    "id": 21,
+    "nombre": "Escabeche de Pescado",
+    "fuente": "https://youtu.be/PPx9veG6bAk?list=TLGGq4ou-CfiWDoxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Pescado",
+        "ingredientesPrincipales": [
+          "Pescado"
+        ],
+        "ingredientesNormales": [
+          "Bonito",
+          "Sal",
+          "Pimienta",
+          "Comino",
+          "Harina",
+          "Aceite"
+        ]
+      },
+      {
+        "nombre": "Salsa",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Aceite",
+          "Aj� amarillo",
+          "Aj� panca",
+          "Pasta de ajo",
+          "Vinagre tinto",
+          "Sal",
+          "Comino",
+          "Or�gano",
+          "Caldo de pescado (chilcano)",
+          "Cebolla"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Pescado",
+      "Bonito",
+      "Sal",
+      "Pimienta",
+      "Comino",
+      "Harina",
+      "Aceite",
+      "Aj� amarillo",
+      "Aj� panca",
+      "Pasta de ajo",
+      "Vinagre tinto",
+      "Or�gano",
+      "Caldo de pescado (chilcano)",
+      "Cebolla"
+    ],
+    "totalPrincipales": [
+      "Pescado"
+    ],
+    "totalNormales": [
+      "Bonito",
+      "Sal",
+      "Pimienta",
+      "Comino",
+      "Harina",
+      "Aceite",
+      "Aj� amarillo",
+      "Aj� panca",
+      "Pasta de ajo",
+      "Vinagre tinto",
+      "Or�gano",
+      "Caldo de pescado (chilcano)",
+      "Cebolla"
+    ]
+  },
+  {
+    "id": 22,
+    "nombre": "Pollo Saltado con Arvejas",
+    "fuente": "https://youtu.be/sGXXA-BGdpo?list=TLGGBqmJX-5M6BMxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Arvejitas",
+        "ingredientesPrincipales": [
+          "Pollo",
+          "arvejitas"
+        ],
+        "ingredientesNormales": [
+          "Arvejita partida",
+          "Cebolla",
+          "Tomate",
+          "Ajo",
+          "Tocino",
+          "Aceite",
+          "Pimienta",
+          "Sal"
+        ]
+      },
+      {
+        "nombre": "Pollo Saltado",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Pechuga de pollo",
+          "Pimienta",
+          "Comino",
+          "Ajo",
+          "Kion",
+          "Salsa preparada (sillao",
+          "vinagre",
+          "pisco",
+          "maicena)",
+          "Cebolla",
+          "Aj� amarillo",
+          "Tomate",
+          "Culantro"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Pollo",
+      "arvejitas",
+      "Arvejita partida",
+      "Cebolla",
+      "Tomate",
+      "Ajo",
+      "Tocino",
+      "Aceite",
+      "Pimienta",
+      "Sal",
+      "Pechuga de pollo",
+      "Comino",
+      "Kion",
+      "Salsa preparada (sillao",
+      "vinagre",
+      "pisco",
+      "maicena)",
+      "Aj� amarillo",
+      "Culantro"
+    ],
+    "totalPrincipales": [
+      "Pollo",
+      "arvejitas"
+    ],
+    "totalNormales": [
+      "Arvejita partida",
+      "Cebolla",
+      "Tomate",
+      "Ajo",
+      "Tocino",
+      "Aceite",
+      "Pimienta",
+      "Sal",
+      "Pechuga de pollo",
+      "Comino",
+      "Kion",
+      "Salsa preparada (sillao",
+      "vinagre",
+      "pisco",
+      "maicena)",
+      "Aj� amarillo",
+      "Culantro"
+    ]
+  },
+  {
+    "id": 23,
+    "nombre": "Lasa�a de Carne",
+    "fuente": "https://youtu.be/nbCf1sHh9CQ?list=TLGGcPFd8up9Gc8xODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Salsa de Carne",
+        "ingredientesPrincipales": [
+          "Carne",
+          "res",
+          "cerdo"
+        ],
+        "ingredientesNormales": [
+          "Zanahoria",
+          "Carne de res",
+          "Carne de cerdo",
+          "Chorizo",
+          "Cebolla",
+          "Apio",
+          "Ajo",
+          "Pur� de tomate",
+          "Vino tinto",
+          "Aceite",
+          "Albahaca",
+          "Perejil",
+          "Laurel",
+          "Or�gano"
+        ]
+      },
+      {
+        "nombre": "Bechamel y Armado",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Mantequilla",
+          "Harina",
+          "Leche",
+          "Nuez moscada",
+          "Laurel",
+          "Pasta de lasa�a",
+          "Queso mozzarella"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Carne",
+      "res",
+      "cerdo",
+      "Zanahoria",
+      "Carne de res",
+      "Carne de cerdo",
+      "Chorizo",
+      "Cebolla",
+      "Apio",
+      "Ajo",
+      "Pur� de tomate",
+      "Vino tinto",
+      "Aceite",
+      "Albahaca",
+      "Perejil",
+      "Laurel",
+      "Or�gano",
+      "Mantequilla",
+      "Harina",
+      "Leche",
+      "Nuez moscada",
+      "Pasta de lasa�a",
+      "Queso mozzarella"
+    ],
+    "totalPrincipales": [
+      "Carne",
+      "res",
+      "cerdo"
+    ],
+    "totalNormales": [
+      "Zanahoria",
+      "Carne de res",
+      "Carne de cerdo",
+      "Chorizo",
+      "Cebolla",
+      "Apio",
+      "Ajo",
+      "Pur� de tomate",
+      "Vino tinto",
+      "Aceite",
+      "Albahaca",
+      "Perejil",
+      "Laurel",
+      "Or�gano",
+      "Mantequilla",
+      "Harina",
+      "Leche",
+      "Nuez moscada",
+      "Pasta de lasa�a",
+      "Queso mozzarella"
+    ]
+  },
+  {
+    "id": 24,
+    "nombre": "Pollo al Or�gano",
+    "fuente": "",
+    "componentes": [
+      {
+        "nombre": "Pollo y Aderezo",
+        "ingredientes": [
+          "Presas de pollo",
+          "Vinagre tinto",
+          "Sillao",
+          "Pimienta",
+          "Comino",
+          "Sal",
+          "Ajo molido",
+          "Or�gano seco",
+          "Aceite",
+          "Caldo de pollo"
+        ]
+      },
+      {
+        "nombre": "Aj� (Salsa)",
+        "ingredientes": [
+          "Cebolla",
+          "Rocoto",
+          "Aceite",
+          "Sal",
+          "Lim�n"
+        ]
+      },
+      {
+        "nombre": "Ensalada",
+        "ingredientes": [
+          "Lechuga",
+          "Lim�n",
+          "Sal",
+          "Pimienta",
+          "Cebolla",
+          "Tomate",
+          "Queso"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Presas de pollo",
+      "Vinagre tinto",
+      "Sillao",
+      "Pimienta",
+      "Comino",
+      "Sal",
+      "Ajo molido",
+      "Or�gano seco",
+      "Aceite",
+      "Caldo de pollo",
+      "Cebolla",
+      "Rocoto",
+      "Lim�n",
+      "Lechuga",
+      "Tomate",
+      "Queso"
+    ]
+  },
+  {
+    "id": 25,
+    "nombre": "Milanesa de Pollo Rellena",
+    "fuente": "https://youtu.be/HQf47ue1_So?list=TLGG2IperiebiUcxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Milanesa",
+        "ingredientesPrincipales": [
+          "Pollo"
+        ],
+        "ingredientesNormales": [
+          "Pechuga de pollo",
+          "Sal",
+          "Pimienta",
+          "Mostaza",
+          "Ajo",
+          "Or�gano",
+          "Albahaca",
+          "Queso",
+          "Jam�n",
+          "Tocino"
+        ]
+      },
+      {
+        "nombre": "Empanizado",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Harina",
+          "Huevo",
+          "Pan molido"
+        ]
+      },
+      {
+        "nombre": "Pur�",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Papa amarilla",
+          "Mantequilla",
+          "Leche evaporada",
+          "Sal"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Pollo",
+      "Pechuga de pollo",
+      "Sal",
+      "Pimienta",
+      "Mostaza",
+      "Ajo",
+      "Or�gano",
+      "Albahaca",
+      "Queso",
+      "Jam�n",
+      "Tocino",
+      "Harina",
+      "Huevo",
+      "Pan molido",
+      "Papa amarilla",
+      "Mantequilla",
+      "Leche evaporada"
+    ],
+    "totalPrincipales": [
+      "Pollo"
+    ],
+    "totalNormales": [
+      "Pechuga de pollo",
+      "Sal",
+      "Pimienta",
+      "Mostaza",
+      "Ajo",
+      "Or�gano",
+      "Albahaca",
+      "Queso",
+      "Jam�n",
+      "Tocino",
+      "Harina",
+      "Huevo",
+      "Pan molido",
+      "Papa amarilla",
+      "Mantequilla",
+      "Leche evaporada"
+    ]
+  },
+  {
+    "id": 26,
+    "nombre": "Papa Rellena",
+    "fuente": "https://youtu.be/UR-Huz8KqJc?list=TLGGx56Gunh_2vYxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Masa",
+        "ingredientesPrincipales": [
+          "Papa"
+        ],
+        "ingredientesNormales": [
+          "Papa blanca",
+          "Papa amarilla",
+          "Sal",
+          "Huevo"
+        ]
+      },
+      {
+        "nombre": "Relleno",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Carne molida",
+          "Aceite",
+          "Cebolla",
+          "Aj� amarillo",
+          "Aj� panca",
+          "Pasta de tomate",
+          "Sal",
+          "Pasas",
+          "Perejil",
+          "Huevo duro",
+          "Aceitunas"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Papa",
+      "Papa blanca",
+      "Papa amarilla",
+      "Sal",
+      "Huevo",
+      "Carne molida",
+      "Aceite",
+      "Cebolla",
+      "Aj� amarillo",
+      "Aj� panca",
+      "Pasta de tomate",
+      "Pasas",
+      "Perejil",
+      "Huevo duro",
+      "Aceitunas"
+    ],
+    "totalPrincipales": [
+      "Papa"
+    ],
+    "totalNormales": [
+      "Papa blanca",
+      "Papa amarilla",
+      "Sal",
+      "Huevo",
+      "Carne molida",
+      "Aceite",
+      "Cebolla",
+      "Aj� amarillo",
+      "Aj� panca",
+      "Pasta de tomate",
+      "Pasas",
+      "Perejil",
+      "Huevo duro",
+      "Aceitunas"
+    ]
+  },
+  {
+    "id": 27,
+    "nombre": "Pollo a la Naranja",
+    "fuente": "https://youtu.be/idAX_HquG9c?list=TLGGiWXXUHANeNoxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Pollo",
+        "ingredientesPrincipales": [
+          "Pollo"
+        ],
+        "ingredientesNormales": [
+          "Pechuga o muslo",
+          "Sal",
+          "Pimienta",
+          "Chu�o/Maicena",
+          "Polvo de hornear",
+          "Huevo",
+          "Harina"
+        ]
+      },
+      {
+        "nombre": "Salsa",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Aceite",
+          "Ajo",
+          "Kion",
+          "Aj�",
+          "Caldo de pollo",
+          "Az�car",
+          "Sal",
+          "Sillao",
+          "Vinagre",
+          "Jugo de naranja",
+          "Ralladura de naranja",
+          "Aceite de ajonjol�",
+          "Chu�o"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Pollo",
+      "Pechuga o muslo",
+      "Sal",
+      "Pimienta",
+      "Chu�o/Maicena",
+      "Polvo de hornear",
+      "Huevo",
+      "Harina",
+      "Aceite",
+      "Ajo",
+      "Kion",
+      "Aj�",
+      "Caldo de pollo",
+      "Az�car",
+      "Sillao",
+      "Vinagre",
+      "Jugo de naranja",
+      "Ralladura de naranja",
+      "Aceite de ajonjol�",
+      "Chu�o"
+    ],
+    "totalPrincipales": [
+      "Pollo"
+    ],
+    "totalNormales": [
+      "Pechuga o muslo",
+      "Sal",
+      "Pimienta",
+      "Chu�o/Maicena",
+      "Polvo de hornear",
+      "Huevo",
+      "Harina",
+      "Aceite",
+      "Ajo",
+      "Kion",
+      "Aj�",
+      "Caldo de pollo",
+      "Az�car",
+      "Sillao",
+      "Vinagre",
+      "Jugo de naranja",
+      "Ralladura de naranja",
+      "Aceite de ajonjol�",
+      "Chu�o"
+    ]
+  },
+  {
+    "id": 28,
+    "nombre": "Pollo a la Chiclayana",
+    "fuente": "https://youtu.be/HTGQ__W5UDo?list=TLGGbf-WYqd1oH4xODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Guiso",
+        "ingredientesPrincipales": [
+          "Pollo"
+        ],
+        "ingredientesNormales": [
+          "Pollo",
+          "Sal",
+          "Pimienta",
+          "Comino",
+          "Aj� amarillo",
+          "Cebolla",
+          "Zapallo loche",
+          "Ajo",
+          "Chicha de jora",
+          "Caldo",
+          "Culantro"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Pollo",
+      "Sal",
+      "Pimienta",
+      "Comino",
+      "Aj� amarillo",
+      "Cebolla",
+      "Zapallo loche",
+      "Ajo",
+      "Chicha de jora",
+      "Caldo",
+      "Culantro"
+    ],
+    "totalPrincipales": [
+      "Pollo"
+    ],
+    "totalNormales": [
+      "Pollo",
+      "Sal",
+      "Pimienta",
+      "Comino",
+      "Aj� amarillo",
+      "Cebolla",
+      "Zapallo loche",
+      "Ajo",
+      "Chicha de jora",
+      "Caldo",
+      "Culantro"
+    ]
+  },
+  {
+    "id": 29,
+    "nombre": "Tallarines Verdes con Bistec",
+    "fuente": "https://youtu.be/10hjaIq5JK8?list=TLGGetXDaLQtBukxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Bistec Apanado",
+        "ingredientesPrincipales": [
+          "bistec",
+          "carne"
+        ],
+        "ingredientesNormales": [
+          "Bistec",
+          "Sal",
+          "Comino",
+          "Pimienta",
+          "Ajo",
+          "Harina",
+          "Huevo",
+          "Pan rallado"
+        ]
+      },
+      {
+        "nombre": "Salsa Verde",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Cebolla",
+          "Ajo",
+          "Aceite",
+          "Espinaca",
+          "Albahaca",
+          "Leche",
+          "Pecanas",
+          "Queso fresco",
+          "Queso parmesano",
+          "Crema de leche"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "bistec",
+      "carne",
+      "Bistec",
+      "Sal",
+      "Comino",
+      "Pimienta",
+      "Ajo",
+      "Harina",
+      "Huevo",
+      "Pan rallado",
+      "Cebolla",
+      "Aceite",
+      "Espinaca",
+      "Albahaca",
+      "Leche",
+      "Pecanas",
+      "Queso fresco",
+      "Queso parmesano",
+      "Crema de leche"
+    ],
+    "totalPrincipales": [
+      "bistec",
+      "carne"
+    ],
+    "totalNormales": [
+      "Bistec",
+      "Sal",
+      "Comino",
+      "Pimienta",
+      "Ajo",
+      "Harina",
+      "Huevo",
+      "Pan rallado",
+      "Cebolla",
+      "Aceite",
+      "Espinaca",
+      "Albahaca",
+      "Leche",
+      "Pecanas",
+      "Queso fresco",
+      "Queso parmesano",
+      "Crema de leche"
+    ]
+  },
+  {
+    "id": 30,
+    "nombre": "Picante de Carne",
+    "fuente": "https://youtu.be/MUGZ5gxMmrw?list=TLGGGaHym7-ouRMxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Guiso",
+        "ingredientesPrincipales": [
+          "Carne"
+        ],
+        "ingredientesNormales": [
+          "Carne",
+          "Sal",
+          "Pimienta",
+          "Aceite",
+          "Cebolla",
+          "Ajo",
+          "Comino",
+          "Pasta de aj� amarillo",
+          "Aj� panca",
+          "Papa blanca",
+          "Zanahoria",
+          "Choclo blanco",
+          "Laurel",
+          "Arvejita",
+          "Perejil"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Carne",
+      "Sal",
+      "Pimienta",
+      "Aceite",
+      "Cebolla",
+      "Ajo",
+      "Comino",
+      "Pasta de aj� amarillo",
+      "Aj� panca",
+      "Papa blanca",
+      "Zanahoria",
+      "Choclo blanco",
+      "Laurel",
+      "Arvejita",
+      "Perejil"
+    ],
+    "totalPrincipales": [
+      "Carne"
+    ],
+    "totalNormales": [
+      "Carne",
+      "Sal",
+      "Pimienta",
+      "Aceite",
+      "Cebolla",
+      "Ajo",
+      "Comino",
+      "Pasta de aj� amarillo",
+      "Aj� panca",
+      "Papa blanca",
+      "Zanahoria",
+      "Choclo blanco",
+      "Laurel",
+      "Arvejita",
+      "Perejil"
+    ]
+  },
+  {
+    "id": 31,
+    "nombre": "Pollo al Vino con Pur�",
+    "fuente": "",
+    "componentes": [
+      {
+        "nombre": "Pollo",
+        "ingredientes": [
+          "Pollo",
+          "Aj� panca",
+          "Ajo",
+          "Comino",
+          "Pimienta",
+          "Mostaza",
+          "Or�gano",
+          "Vino tinto",
+          "Aceite",
+          "Caldo",
+          "Maicena"
+        ]
+      },
+      {
+        "nombre": "Pur�",
+        "ingredientes": [
+          "Papa amarilla",
+          "Sal",
+          "Mantequilla",
+          "Leche fresca",
+          "Leche evaporada"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Pollo",
+      "Aj� panca",
+      "Ajo",
+      "Comino",
+      "Pimienta",
+      "Mostaza",
+      "Or�gano",
+      "Vino tinto",
+      "Aceite",
+      "Caldo",
+      "Maicena",
+      "Papa amarilla",
+      "Sal",
+      "Mantequilla",
+      "Leche fresca",
+      "Leche evaporada"
+    ]
+  },
+  {
+    "id": 32,
+    "nombre": "Seco de Carne",
+    "fuente": "https://youtu.be/pM0ZOhVjC9g?list=TLGGdHDoYL7qBb0xODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Guiso",
+        "ingredientesPrincipales": [
+          "Carne"
+        ],
+        "ingredientesNormales": [
+          "Asado de tira",
+          "Sal",
+          "Pimienta",
+          "Comino",
+          "Aceite",
+          "Cebolla",
+          "Ajo",
+          "Aj� amarillo",
+          "Aj� panca",
+          "Culantro",
+          "Chicha de jora (o cerveza negra)",
+          "Caldo de carne",
+          "Arvejita"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Carne",
+      "Asado de tira",
+      "Sal",
+      "Pimienta",
+      "Comino",
+      "Aceite",
+      "Cebolla",
+      "Ajo",
+      "Aj� amarillo",
+      "Aj� panca",
+      "Culantro",
+      "Chicha de jora (o cerveza negra)",
+      "Caldo de carne",
+      "Arvejita"
+    ],
+    "totalPrincipales": [
+      "Carne"
+    ],
+    "totalNormales": [
+      "Asado de tira",
+      "Sal",
+      "Pimienta",
+      "Comino",
+      "Aceite",
+      "Cebolla",
+      "Ajo",
+      "Aj� amarillo",
+      "Aj� panca",
+      "Culantro",
+      "Chicha de jora (o cerveza negra)",
+      "Caldo de carne",
+      "Arvejita"
+    ]
+  },
+  {
+    "id": 33,
+    "nombre": "Olluquito con Carne",
+    "fuente": "https://youtu.be/rXV9unthudo?list=TLGGt-ORJi8saDsxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Guiso",
+        "ingredientesPrincipales": [
+          "Olluquito",
+          "carne"
+        ],
+        "ingredientesNormales": [
+          "Charqui o Chalona",
+          "Carne de res",
+          "Sal",
+          "Aceite",
+          "Cebolla",
+          "Comino",
+          "Pimienta",
+          "Ajo",
+          "Aj� panca",
+          "Aj� amarillo",
+          "Olluco",
+          "Perejil"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Olluquito",
+      "carne",
+      "Charqui o Chalona",
+      "Carne de res",
+      "Sal",
+      "Aceite",
+      "Cebolla",
+      "Comino",
+      "Pimienta",
+      "Ajo",
+      "Aj� panca",
+      "Aj� amarillo",
+      "Olluco",
+      "Perejil"
+    ],
+    "totalPrincipales": [
+      "Olluquito",
+      "carne"
+    ],
+    "totalNormales": [
+      "Charqui o Chalona",
+      "Carne de res",
+      "Sal",
+      "Aceite",
+      "Cebolla",
+      "Comino",
+      "Pimienta",
+      "Ajo",
+      "Aj� panca",
+      "Aj� amarillo",
+      "Olluco",
+      "Perejil"
+    ]
+  },
+  {
+    "id": 34,
+    "nombre": "Tallar�n Rojo con Pollo",
+    "fuente": "",
+    "componentes": [
+      {
+        "nombre": "Salsa",
+        "ingredientes": [
+          "Pollo",
+          "Sal",
+          "Comino",
+          "Aceite",
+          "Cebolla",
+          "Ajo",
+          "Aj� panca",
+          "Zanahoria",
+          "Tomate",
+          "Az�car rubia"
+        ]
+      },
+      {
+        "nombre": "Huanca�na",
+        "ingredientes": [
+          "Cebolla",
+          "Ajo",
+          "Queso fresco",
+          "Aj�",
+          "Leche",
+          "Aceite"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Pollo",
+      "Sal",
+      "Comino",
+      "Aceite",
+      "Cebolla",
+      "Ajo",
+      "Aj� panca",
+      "Zanahoria",
+      "Tomate",
+      "Az�car rubia",
+      "Queso fresco",
+      "Aj�",
+      "Leche"
+    ]
+  },
+  {
+    "id": 35,
+    "nombre": "Arroz con Mariscos",
+    "fuente": "https://youtu.be/9hnB6JYiKdg?list=TLGGvRUR6SbaWOsxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Salsa y Mariscos",
+        "ingredientesPrincipales": [
+          "Mariscos"
+        ],
+        "ingredientesNormales": [
+          "Aceite",
+          "Cebolla",
+          "Pimiento",
+          "Tomate",
+          "Ajo",
+          "Carcasa de langostino",
+          "Vino blanco",
+          "Pimienta",
+          "Or�gano",
+          "Aj� amarillo",
+          "Chicha de jora",
+          "Calamar",
+          "Langostino",
+          "Concha",
+          "Sal",
+          "Lim�n",
+          "Pisco"
+        ]
+      },
+      {
+        "nombre": "Arroz",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Mantequilla",
+          "Salsa Madre",
+          "Pasta de aj� amarillo",
+          "Or�gano",
+          "Arroz",
+          "Caldo",
+          "Choclo",
+          "Zanahoria",
+          "Vainita",
+          "Arvejita",
+          "Zapallo loche",
+          "Queso parmesano",
+          "Lim�n"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Mariscos",
+      "Aceite",
+      "Cebolla",
+      "Pimiento",
+      "Tomate",
+      "Ajo",
+      "Carcasa de langostino",
+      "Vino blanco",
+      "Pimienta",
+      "Or�gano",
+      "Aj� amarillo",
+      "Chicha de jora",
+      "Calamar",
+      "Langostino",
+      "Concha",
+      "Sal",
+      "Lim�n",
+      "Pisco",
+      "Mantequilla",
+      "Salsa Madre",
+      "Pasta de aj� amarillo",
+      "Arroz",
+      "Caldo",
+      "Choclo",
+      "Zanahoria",
+      "Vainita",
+      "Arvejita",
+      "Zapallo loche",
+      "Queso parmesano"
+    ],
+    "totalPrincipales": [
+      "Mariscos"
+    ],
+    "totalNormales": [
+      "Aceite",
+      "Cebolla",
+      "Pimiento",
+      "Tomate",
+      "Ajo",
+      "Carcasa de langostino",
+      "Vino blanco",
+      "Pimienta",
+      "Or�gano",
+      "Aj� amarillo",
+      "Chicha de jora",
+      "Calamar",
+      "Langostino",
+      "Concha",
+      "Sal",
+      "Lim�n",
+      "Pisco",
+      "Mantequilla",
+      "Salsa Madre",
+      "Pasta de aj� amarillo",
+      "Arroz",
+      "Caldo",
+      "Choclo",
+      "Zanahoria",
+      "Vainita",
+      "Arvejita",
+      "Zapallo loche",
+      "Queso parmesano"
+    ]
+  },
+  {
+    "id": 36,
+    "nombre": "Pulpo al Olivo",
+    "fuente": "https://youtu.be/6_jsc4uMGpc?list=TLGG6qmWVfRyveQxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Pulpo",
+        "ingredientesPrincipales": [
+          "Pulpo"
+        ],
+        "ingredientesNormales": [
+          "Pulpo",
+          "Poro",
+          "Cebolla",
+          "Tomate",
+          "Tomillo",
+          "Laurel",
+          "Sal"
+        ]
+      },
+      {
+        "nombre": "Mayonesa Base",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Maicena",
+          "Sal",
+          "Aceite",
+          "Vinagre",
+          "Mostaza",
+          "Huevo"
+        ]
+      },
+      {
+        "nombre": "Salsa Olivo",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Aceituna negra",
+          "Queso crema",
+          "Mayonesa base",
+          "Pimienta"
+        ]
+      },
+      {
+        "nombre": "Majadito",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Papa amarilla",
+          "Vinagre",
+          "Aceite de oliva",
+          "Aj� limo",
+          "Cibulette",
+          "Sal",
+          "Pimienta"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Pulpo",
+      "Poro",
+      "Cebolla",
+      "Tomate",
+      "Tomillo",
+      "Laurel",
+      "Sal",
+      "Maicena",
+      "Aceite",
+      "Vinagre",
+      "Mostaza",
+      "Huevo",
+      "Aceituna negra",
+      "Queso crema",
+      "Mayonesa base",
+      "Pimienta",
+      "Papa amarilla",
+      "Aceite de oliva",
+      "Aj� limo",
+      "Cibulette"
+    ],
+    "totalPrincipales": [
+      "Pulpo"
+    ],
+    "totalNormales": [
+      "Pulpo",
+      "Poro",
+      "Cebolla",
+      "Tomate",
+      "Tomillo",
+      "Laurel",
+      "Sal",
+      "Maicena",
+      "Aceite",
+      "Vinagre",
+      "Mostaza",
+      "Huevo",
+      "Aceituna negra",
+      "Queso crema",
+      "Mayonesa base",
+      "Pimienta",
+      "Papa amarilla",
+      "Aceite de oliva",
+      "Aj� limo",
+      "Cibulette"
+    ]
+  },
+  {
+    "id": 37,
+    "nombre": "Pollo Broaster",
+    "fuente": "https://youtu.be/AETwlgbX8cE?list=TLGGM0o4p_OOJ4YxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Marinada",
+        "ingredientesPrincipales": [
+          "Pollo"
+        ],
+        "ingredientesNormales": [
+          "Pollo",
+          "Yogur griego",
+          "Ajo en polvo",
+          "Cebolla en polvo",
+          "Paprika",
+          "Or�gano",
+          "Mostaza",
+          "Sal",
+          "Pimienta"
+        ]
+      },
+      {
+        "nombre": "Empanizado",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Harina de trigo",
+          "Chu�o",
+          "Paprika",
+          "Cebolla en polvo",
+          "Ajo en polvo",
+          "Or�gano",
+          "Pimienta",
+          "Sal"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Pollo",
+      "Yogur griego",
+      "Ajo en polvo",
+      "Cebolla en polvo",
+      "Paprika",
+      "Or�gano",
+      "Mostaza",
+      "Sal",
+      "Pimienta",
+      "Harina de trigo",
+      "Chu�o"
+    ],
+    "totalPrincipales": [
+      "Pollo"
+    ],
+    "totalNormales": [
+      "Pollo",
+      "Yogur griego",
+      "Ajo en polvo",
+      "Cebolla en polvo",
+      "Paprika",
+      "Or�gano",
+      "Mostaza",
+      "Sal",
+      "Pimienta",
+      "Harina de trigo",
+      "Chu�o"
+    ]
+  },
+  {
+    "id": 38,
+    "nombre": "Pollo al Man�",
+    "fuente": "",
+    "componentes": [
+      {
+        "nombre": "Guiso",
+        "ingredientes": [
+          "Pollo",
+          "Sal",
+          "Pimienta",
+          "Aceite",
+          "Cebolla morada",
+          "Ajo",
+          "Aj� panca",
+          "Man�",
+          "Vino blanco",
+          "Caldo"
+        ]
+      },
+      {
+        "nombre": "Ensalada",
+        "ingredientes": [
+          "Cebolla",
+          "Tomate",
+          "Pepino",
+          "Aj� limo",
+          "Culantro",
+          "Lim�n",
+          "Sal",
+          "Pimienta",
+          "Palta"
+        ]
+      }
+    ],
+    "totalIngredientes": [
+      "Pollo",
+      "Sal",
+      "Pimienta",
+      "Aceite",
+      "Cebolla morada",
+      "Ajo",
+      "Aj� panca",
+      "Man�",
+      "Vino blanco",
+      "Caldo",
+      "Cebolla",
+      "Tomate",
+      "Pepino",
+      "Aj� limo",
+      "Culantro",
+      "Lim�n",
+      "Palta"
+    ]
+  },
+  {
+    "id": 39,
+    "nombre": "Aji de Gallina",
+    "fuente": "https://youtu.be/UdnT9ka7yAk?list=TLGGeO_lKgo0_z4xODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Caldo",
+        "ingredientesPrincipales": [
+          "Pollo"
+        ],
+        "ingredientesNormales": [
+          "Zanahoria",
+          "Poro",
+          "Apio",
+          "Ajo",
+          "Sal",
+          "Pollo"
+        ]
+      },
+      {
+        "nombre": "Crema",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Aceite vegetal",
+          "Cebolla roja",
+          "Sal",
+          "Ajo",
+          "Comino",
+          "Pasta de aj� amarillo (crudo)",
+          "Pasta de aj� mirasol",
+          "Pasta de aj� panca",
+          "Pan",
+          "Caldo",
+          "Pollo desmenuzado",
+          "Leche evaporada",
+          "Queso parmesano",
+          "Nuez moscada"
+        ]
+      },
+      {
+        "nombre": "Servicio",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Papa amarilla o blanca",
+          "Arroz",
+          "Pecanas o nueces",
+          "Queso parmesano",
+          "Perejil",
+          "Aceitunas negras",
+          "Huevo duro"
+        ]
+      }
+    ],
+    "totalPrincipales": [
+      "Pollo"
+    ],
+    "totalNormales": [
+      "Zanahoria",
+      "Poro",
+      "Apio",
+      "Ajo",
+      "Sal",
+      "Pollo",
+      "Aceite vegetal",
+      "Cebolla roja",
+      "Comino",
+      "Pasta de aj� amarillo (crudo)",
+      "Pasta de aj� mirasol",
+      "Pasta de aj� panca",
+      "Pan",
+      "Caldo",
+      "Pollo desmenuzado",
+      "Leche evaporada",
+      "Queso parmesano",
+      "Nuez moscada",
+      "Papa amarilla o blanca",
+      "Arroz",
+      "Pecanas o nueces",
+      "Perejil",
+      "Aceitunas negras",
+      "Huevo duro"
+    ],
+    "totalIngredientes": [
+      "Pollo",
+      "Zanahoria",
+      "Poro",
+      "Apio",
+      "Ajo",
+      "Sal",
+      "Aceite vegetal",
+      "Cebolla roja",
+      "Comino",
+      "Pasta de aj� amarillo (crudo)",
+      "Pasta de aj� mirasol",
+      "Pasta de aj� panca",
+      "Pan",
+      "Caldo",
+      "Pollo desmenuzado",
+      "Leche evaporada",
+      "Queso parmesano",
+      "Nuez moscada",
+      "Papa amarilla o blanca",
+      "Arroz",
+      "Pecanas o nueces",
+      "Perejil",
+      "Aceitunas negras",
+      "Huevo duro"
+    ]
+  },
+  {
+    "id": 40,
+    "nombre": "Pollo al Oregano",
+    "fuente": "https://youtu.be/DjRYKq1GGFE?list=TLGG3ssUUJXZvQoxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Pollo y Aderezo",
+        "ingredientesPrincipales": [
+          "Pollo"
+        ],
+        "ingredientesNormales": [
+          "Presas de pollo",
+          "Vinagre tinto",
+          "Sillao",
+          "Pimienta",
+          "Comino",
+          "Sal",
+          "Ajo molido",
+          "Or�gano seco",
+          "Aceite",
+          "Caldo de pollo"
+        ]
+      },
+      {
+        "nombre": "Aji (Salsa)",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Cebolla",
+          "Rocoto",
+          "Aceite",
+          "Sal",
+          "Lim�n"
+        ]
+      },
+      {
+        "nombre": "Ensalada",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Lechuga",
+          "Lim�n",
+          "Sal",
+          "Pimienta",
+          "Cebolla",
+          "Tomate",
+          "Queso"
+        ]
+      }
+    ],
+    "totalPrincipales": [
+      "Pollo"
+    ],
+    "totalNormales": [
+      "Presas de pollo",
+      "Vinagre tinto",
+      "Sillao",
+      "Pimienta",
+      "Comino",
+      "Sal",
+      "Ajo molido",
+      "Or�gano seco",
+      "Aceite",
+      "Caldo de pollo",
+      "Cebolla",
+      "Rocoto",
+      "Lim�n",
+      "Lechuga",
+      "Tomate",
+      "Queso"
+    ],
+    "totalIngredientes": [
+      "Pollo",
+      "Presas de pollo",
+      "Vinagre tinto",
+      "Sillao",
+      "Pimienta",
+      "Comino",
+      "Sal",
+      "Ajo molido",
+      "Or�gano seco",
+      "Aceite",
+      "Caldo de pollo",
+      "Cebolla",
+      "Rocoto",
+      "Lim�n",
+      "Lechuga",
+      "Tomate",
+      "Queso"
+    ]
+  },
+  {
+    "id": 41,
+    "nombre": "Pollo al Vino con Pure",
+    "fuente": "https://youtu.be/m0sRQe8Useo?list=TLGGMIssOr4G6AIxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Pollo",
+        "ingredientesPrincipales": [
+          "Pollo"
+        ],
+        "ingredientesNormales": [
+          "Pollo",
+          "Aj� panca",
+          "Ajo",
+          "Comino",
+          "Pimienta",
+          "Mostaza",
+          "Or�gano",
+          "Vino tinto",
+          "Aceite",
+          "Caldo",
+          "Maicena"
+        ]
+      },
+      {
+        "nombre": "Pure",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Papa amarilla",
+          "Sal",
+          "Mantequilla",
+          "Leche fresca",
+          "Leche evaporada"
+        ]
+      }
+    ],
+    "totalPrincipales": [
+      "Pollo"
+    ],
+    "totalNormales": [
+      "Pollo",
+      "Aj� panca",
+      "Ajo",
+      "Comino",
+      "Pimienta",
+      "Mostaza",
+      "Or�gano",
+      "Vino tinto",
+      "Aceite",
+      "Caldo",
+      "Maicena",
+      "Papa amarilla",
+      "Sal",
+      "Mantequilla",
+      "Leche fresca",
+      "Leche evaporada"
+    ],
+    "totalIngredientes": [
+      "Pollo",
+      "Aj� panca",
+      "Ajo",
+      "Comino",
+      "Pimienta",
+      "Mostaza",
+      "Or�gano",
+      "Vino tinto",
+      "Aceite",
+      "Caldo",
+      "Maicena",
+      "Papa amarilla",
+      "Sal",
+      "Mantequilla",
+      "Leche fresca",
+      "Leche evaporada"
+    ]
+  },
+  {
+    "id": 42,
+    "nombre": "Tallarin Rojo con Pollo",
+    "fuente": "https://youtu.be/AvZoC9AmPEY?list=TLGG6y9Tn10H6KwxODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Salsa",
+        "ingredientesPrincipales": [
+          "Pollo",
+          "pasta"
+        ],
+        "ingredientesNormales": [
+          "Pollo",
+          "Sal",
+          "Comino",
+          "Aceite",
+          "Cebolla",
+          "Ajo",
+          "Aj� panca",
+          "Zanahoria",
+          "Tomate",
+          "Az�car rubia"
+        ]
+      },
+      {
+        "nombre": "Huancaina",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Cebolla",
+          "Ajo",
+          "Queso fresco",
+          "Aj�",
+          "Leche",
+          "Aceite"
+        ]
+      }
+    ],
+    "totalPrincipales": [
+      "Pollo",
+      "pasta"
+    ],
+    "totalNormales": [
+      "Pollo",
+      "Sal",
+      "Comino",
+      "Aceite",
+      "Cebolla",
+      "Ajo",
+      "Aj� panca",
+      "Zanahoria",
+      "Tomate",
+      "Az�car rubia",
+      "Queso fresco",
+      "Aj�",
+      "Leche"
+    ],
+    "totalIngredientes": [
+      "Pollo",
+      "pasta",
+      "Sal",
+      "Comino",
+      "Aceite",
+      "Cebolla",
+      "Ajo",
+      "Aj� panca",
+      "Zanahoria",
+      "Tomate",
+      "Az�car rubia",
+      "Queso fresco",
+      "Aj�",
+      "Leche"
+    ]
+  },
+  {
+    "id": 43,
+    "nombre": "Pollo al Mani",
+    "fuente": "https://youtu.be/UWAmvDJnN0I?list=TLGGWL15uHks4x4xODEyMjAyNQ",
+    "componentes": [
+      {
+        "nombre": "Guiso",
+        "ingredientesPrincipales": [
+          "Pollo"
+        ],
+        "ingredientesNormales": [
+          "Pollo",
+          "Sal",
+          "Pimienta",
+          "Aceite",
+          "Cebolla morada",
+          "Ajo",
+          "Aj� panca",
+          "Man�",
+          "Vino blanco",
+          "Caldo"
+        ]
+      },
+      {
+        "nombre": "Ensalada",
+        "ingredientesPrincipales": [],
+        "ingredientesNormales": [
+          "Cebolla",
+          "Tomate",
+          "Pepino",
+          "Aj� limo",
+          "Culantro",
+          "Lim�n",
+          "Sal",
+          "Pimienta",
+          "Palta"
+        ]
+      }
+    ],
+    "totalPrincipales": [
+      "Pollo"
+    ],
+    "totalNormales": [
+      "Pollo",
+      "Sal",
+      "Pimienta",
+      "Aceite",
+      "Cebolla morada",
+      "Ajo",
+      "Aj� panca",
+      "Man�",
+      "Vino blanco",
+      "Caldo",
+      "Cebolla",
+      "Tomate",
+      "Pepino",
+      "Aj� limo",
+      "Culantro",
+      "Lim�n",
+      "Palta"
+    ],
+    "totalIngredientes": [
+      "Pollo",
+      "Sal",
+      "Pimienta",
+      "Aceite",
+      "Cebolla morada",
+      "Ajo",
+      "Aj� panca",
+      "Man�",
+      "Vino blanco",
+      "Caldo",
+      "Cebolla",
+      "Tomate",
+      "Pepino",
+      "Aj� limo",
+      "Culantro",
+      "Lim�n",
+      "Palta"
+    ]
+  }
+]
