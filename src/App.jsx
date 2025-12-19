@@ -14,6 +14,7 @@ const normalizeText = (text) => {
   let clean = text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 
   // 2. TUS SINÓNIMOS (Agrega aquí tus palabras)
+  // "si escribo ESTO" : "léelo como ESTO OTRO"
   const synonyms = {
     'pejerrey': 'pescado',
     'palta': 'aguacate',
@@ -56,10 +57,10 @@ export default function App() {
   const [view, setView] = useState('home'); 
   const [darkMode, setDarkMode] = useState(true); 
   const [detailTab, setDetailTab] = useState('instructions'); 
-  const [showNameModal, setShowNameModal] = useState(false);
   
-  // Nuevo estado para el perfil
-  const [showProfileModal, setShowProfileModal] = useState(false);
+  // Modales
+  const [showNameModal, setShowNameModal] = useState(false);
+  const [showProfileModal, setShowProfileModal] = useState(false); // Nuevo estado para el perfil
   
   // Datos
   const [recipes, setRecipes] = useState([]);
@@ -309,21 +310,12 @@ export default function App() {
           <p className="text-chef-muted dark:text-gray-400 font-medium">¿Qué cocinamos hoy?</p>
         </div>
         <div className="flex items-center gap-3 bg-white/80 dark:bg-black/50 backdrop-blur-md p-2 rounded-full shadow-sm border border-white/20">
-          {/* NUEVO: Botón de Perfil */}
-          <button 
-            onClick={() => setShowProfileModal(true)}
-            className="p-2 rounded-full hover:bg-chef-base dark:hover:bg-white/10 text-chef-muted dark:text-gray-400 transition-all"
-          >
-            <User size={20} />
-          </button>
-          
           <button 
             onClick={() => setDarkMode(!darkMode)}
             className="p-2 rounded-full hover:bg-chef-base dark:hover:bg-white/10 text-chef-accent dark:text-chef-primary transition-all"
           >
             {darkMode ? <Sun size={20} /> : <Moon size={20} />}
           </button>
-          
           <div 
             onClick={() => setShowNameModal(true)} 
             className="w-10 h-10 bg-gradient-to-br from-chef-primary to-orange-700 rounded-full flex items-center justify-center text-white font-bold shadow-lg transform hover:rotate-12 transition-transform cursor-pointer"
@@ -718,7 +710,7 @@ export default function App() {
             </div>
         )}
 
-        {/* NUEVO: Modal de Perfil "Sobre mí" */}
+        {/* Modal de Perfil "Sobre mí" (NUEVO) */}
         {showProfileModal && (
             <div className="absolute inset-0 z-50 bg-black/80 backdrop-blur-md flex items-center justify-center p-6 animate-fadeIn" onClick={() => setShowProfileModal(false)}>
                 <div className="bg-white dark:bg-[#1E1E1E] p-6 rounded-3xl w-full max-w-sm shadow-2xl border border-white/20 relative flex flex-col items-center text-center" onClick={e => e.stopPropagation()}>
@@ -733,7 +725,6 @@ export default function App() {
                         Esta aplicación es un proyecto en constante evolución. Si encuentras un error o tienes una idea para mejorarla, ¡me encantaría escucharte! Escríbeme directamente.
                     </p>
 
-                    {/* Imagen de Tarjeta */}
                     <img 
                         src="/tarjeta.png" 
                         alt="Tarjeta de presentación" 
@@ -741,7 +732,6 @@ export default function App() {
                         onError={(e) => {e.target.onerror = null; e.target.style.display='none'; alert("Asegúrate de que 'tarjeta.png' esté en la carpeta 'public'");}}
                     />
 
-                    {/* Botón de Contacto Manual (Mailto) */}
                     <a 
                         href="mailto:angelo@rodriguezreyes.com"
                         className="w-full bg-chef-primary text-white py-3 rounded-xl font-bold shadow-lg hover:bg-orange-700 transition-colors flex items-center justify-center gap-2"
@@ -787,7 +777,7 @@ export default function App() {
           </div>
         </div>
 
-        {/* Menú Inferior Flotante (Glassmorphism) */}
+        {/* Menú Inferior Flotante */}
         {view !== 'detail' && (
           <div className="absolute bottom-6 left-4 right-4 bg-white/90 dark:bg-[#1E1E1E]/90 backdrop-blur-xl border border-white/20 dark:border-[#333] rounded-full shadow-2xl flex justify-around py-4 z-50 transition-all">
              <button onClick={() => setView('home')} className={`flex flex-col items-center gap-1 transition-all ${view === 'home' ? 'text-chef-primary scale-110' : 'text-chef-muted hover:text-chef-dark dark:hover:text-white'}`}>
@@ -802,6 +792,10 @@ export default function App() {
              </button>
              <button onClick={() => setView('cart')} className={`flex flex-col items-center gap-1 transition-all ${view === 'cart' ? 'text-chef-primary scale-110' : 'text-chef-muted hover:text-chef-dark dark:hover:text-white'}`}>
                 <ShoppingCart size={22} strokeWidth={view === 'cart' ? 3 : 2} />
+             </button>
+             {/* 2. BOTÓN PERFIL "SOBRE MÍ" AL LADO DEL CARRITO */}
+             <button onClick={() => setShowProfileModal(true)} className={`flex flex-col items-center gap-1 transition-all ${showProfileModal ? 'text-chef-primary scale-110' : 'text-chef-muted hover:text-chef-dark dark:hover:text-white'}`}>
+                <User size={22} strokeWidth={showProfileModal ? 3 : 2} />
              </button>
           </div>
         )}
