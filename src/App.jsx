@@ -1,5 +1,9 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { Search, Calendar, ChevronLeft, Play, Plus, X, Wand2, Trash2, ChefHat, Info, ShoppingCart, Check, CheckCircle, Moon, Sun, Archive, ArrowRight } from 'lucide-react';
+import { 
+  Search, Calendar, ChevronLeft, Play, Plus, X, Wand2, Trash2, ChefHat, 
+  Info, ShoppingCart, Check, CheckCircle, Moon, Sun, Archive, ArrowRight, 
+  User, UtensilsCrossed, Mail 
+} from 'lucide-react';
 
 // --- UTILIDADES ---
 
@@ -10,13 +14,16 @@ const normalizeText = (text) => {
   let clean = text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 
   // 2. TUS SINÓNIMOS (Agrega aquí tus palabras)
-  // "si escribo ESTO" : "léelo como ESTO OTRO"
   const synonyms = {
     'pejerrey': 'pescado',
     'palta': 'aguacate',
     'bonito': 'pescado',
     'pavita': 'pavo',
-    // 'palta': 'aguacate', // Ejemplo extra
+    'arverja': 'alverja',
+    'cerdo': 'chancho',
+    'frijol': 'frejol',
+    'carne': 'costilla',
+    'pasta': 'tallarin',
   };
 
   // Reemplaza automáticamente si encuentra la palabra
@@ -51,6 +58,9 @@ export default function App() {
   const [detailTab, setDetailTab] = useState('instructions'); 
   const [showNameModal, setShowNameModal] = useState(false);
   
+  // Nuevo estado para el perfil
+  const [showProfileModal, setShowProfileModal] = useState(false);
+  
   // Datos
   const [recipes, setRecipes] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -64,7 +74,7 @@ export default function App() {
   
   // Despensa (Staples) y Carrito
   const [staples, setStaples] = useState([
-    'Sal', 'Azúcar', 'Aceite', 'Ajo', 'Cebolla', 'Pimienta', 'Comino', 'Agua', 'Orégano', 'Vinagre', 'Sillao'
+    'Sal', 'Azúcar', 'Aceite', 'Ajo', 'Pimienta', 'Comino', 'Orégano', 'Vinagre', 'Sillao', 'Cebolla'
   ]);
   const [activeStaples, setActiveStaples] = useState(['Sal', 'Aceite', 'Ajo', 'Agua', 'Azúcar']); 
   const [newStapleVal, setNewStapleVal] = useState('');
@@ -107,7 +117,6 @@ export default function App() {
     const fetchRecipes = async () => {
       try {
         setLoading(true);
-        /*const response = await fetch('http://localhost:3000/api/recipes');*/
         const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000';
         const response = await fetch(`${API_URL}/api/recipes`);
 
@@ -295,17 +304,26 @@ export default function App() {
       <div className="flex justify-between items-center mb-6">
         <div>
           <h1 className="text-3xl font-extrabold text-chef-dark dark:text-white tracking-tight">
-            Hola, Chef <span className="text-chef-primary">{chefName}</span>
+            Hola, Chef 👨‍🍳 <span className="text-chef-primary">{chefName}</span> 
           </h1>
           <p className="text-chef-muted dark:text-gray-400 font-medium">¿Qué cocinamos hoy?</p>
         </div>
         <div className="flex items-center gap-3 bg-white/80 dark:bg-black/50 backdrop-blur-md p-2 rounded-full shadow-sm border border-white/20">
+          {/* NUEVO: Botón de Perfil */}
+          <button 
+            onClick={() => setShowProfileModal(true)}
+            className="p-2 rounded-full hover:bg-chef-base dark:hover:bg-white/10 text-chef-muted dark:text-gray-400 transition-all"
+          >
+            <User size={20} />
+          </button>
+          
           <button 
             onClick={() => setDarkMode(!darkMode)}
             className="p-2 rounded-full hover:bg-chef-base dark:hover:bg-white/10 text-chef-accent dark:text-chef-primary transition-all"
           >
             {darkMode ? <Sun size={20} /> : <Moon size={20} />}
           </button>
+          
           <div 
             onClick={() => setShowNameModal(true)} 
             className="w-10 h-10 bg-gradient-to-br from-chef-primary to-orange-700 rounded-full flex items-center justify-center text-white font-bold shadow-lg transform hover:rotate-12 transition-transform cursor-pointer"
@@ -347,7 +365,7 @@ export default function App() {
 
       {/* Lista de Recetas */}
       <div>
-        <h3 className="font-bold text-2xl text-chef-dark dark:text-white mb-6">Sugerencias del Chef</h3>
+        <h3 className="font-bold text-2xl text-chef-dark dark:text-white mb-6">Sugerencias del chef</h3>
         {loading ? (
            <div className="flex flex-col items-center py-10 opacity-50 animate-pulse">
              <ChefHat size={48} className="text-chef-primary mb-2"/>
@@ -671,6 +689,8 @@ export default function App() {
         {/* IMAGEN DE FONDO GLOBAL */}
         <div className="absolute inset-0 bg-kitchen-pattern bg-cover bg-center opacity-10 pointer-events-none z-0"></div>
         
+        {/* --- MODALES --- */}
+
         {/* Modal de Bienvenida (Nombre del Chef) */}
         {showNameModal && (
             <div className="absolute inset-0 z-50 bg-black/60 backdrop-blur-sm flex items-center justify-center p-6 animate-fadeIn">
@@ -698,6 +718,40 @@ export default function App() {
             </div>
         )}
 
+        {/* NUEVO: Modal de Perfil "Sobre mí" */}
+        {showProfileModal && (
+            <div className="absolute inset-0 z-50 bg-black/80 backdrop-blur-md flex items-center justify-center p-6 animate-fadeIn" onClick={() => setShowProfileModal(false)}>
+                <div className="bg-white dark:bg-[#1E1E1E] p-6 rounded-3xl w-full max-w-sm shadow-2xl border border-white/20 relative flex flex-col items-center text-center" onClick={e => e.stopPropagation()}>
+                    <button onClick={() => setShowProfileModal(false)} className="absolute top-4 right-4 text-gray-400 hover:text-gray-600 dark:hover:text-white"><X size={20} /></button>
+                    
+                    <h2 className="text-xl font-bold text-chef-dark dark:text-white mb-4">Sobre mí</h2>
+                    
+                    <p className="text-sm text-chef-muted dark:text-gray-300 mb-4 leading-relaxed">
+                        Hola, soy Angelo. Desarrollé esta app porque noté que a veces dedicamos mucho tiempo a pensar qué cocinar con lo que hay en la cocina y quería ofrecer una solución simple y efectiva. Espero que te sea tan útil como lo es para mí.
+                    </p>
+                    <p className="text-sm text-chef-muted dark:text-gray-300 mb-6 leading-relaxed">
+                        Esta aplicación es un proyecto en constante evolución. Si encuentras un error o tienes una idea para mejorarla, ¡me encantaría escucharte! Escríbeme directamente.
+                    </p>
+
+                    {/* Imagen de Tarjeta */}
+                    <img 
+                        src="/tarjeta.png" 
+                        alt="Tarjeta de presentación" 
+                        className="w-full rounded-2xl shadow-lg mb-6" 
+                        onError={(e) => {e.target.onerror = null; e.target.style.display='none'; alert("Asegúrate de que 'tarjeta.png' esté en la carpeta 'public'");}}
+                    />
+
+                    {/* Botón de Contacto Manual (Mailto) */}
+                    <a 
+                        href="mailto:angelo@rodriguezreyes.com"
+                        className="w-full bg-chef-primary text-white py-3 rounded-xl font-bold shadow-lg hover:bg-orange-700 transition-colors flex items-center justify-center gap-2"
+                    >
+                        <Mail size={18} /> Escríbeme directamente
+                    </a>
+                </div>
+            </div>
+        )}
+
         {/* Contenido Scrollable */}
         <div className="relative z-10 flex-1 h-full overflow-y-auto scrollbar-hide flex flex-col">
           <div className="flex-1">
@@ -708,9 +762,10 @@ export default function App() {
             {view === 'calendar' && (
               <div className="pb-24 pt-6 px-4 animate-fadeIn">
                 <h1 className="text-2xl font-bold text-chef-dark dark:text-white mb-2">Planificador</h1>
-                <p className="text-sm text-chef-muted mb-6">Organiza tu semana culinaria</p>
+                <p className="text-sm text-chef-muted mb-6">Alguien que organice tu semana culinaria</p>
                 <div className="bg-white/60 dark:bg-[#1E1E1E] p-4 rounded-2xl border border-white/20 dark:border-[#333] mb-6 backdrop-blur-md">
                   <label className="text-xs font-bold text-chef-primary uppercase">Preferencia</label>
+                  <p className="text-sm text-chef-muted mb-6">Deja en blanco si quieres un menú variado</p>
                   <div className="flex gap-2 mt-2">
                     <input value={prefGenre} onChange={(e) => setPrefGenre(e.target.value)} className="flex-1 bg-white dark:bg-[#2A2A2A] border border-gray-200 dark:border-[#333] text-gray-900 dark:text-white rounded-xl px-4 py-2 text-sm focus:outline-none focus:border-chef-primary" placeholder="Ej: Pescado..." />
                     <button onClick={generateMenu} className="bg-chef-primary text-white px-4 py-2 rounded-xl flex items-center gap-2 text-sm font-bold shadow-lg hover:bg-orange-700 transition-colors"><Wand2 size={16} /> Generar</button>
@@ -736,7 +791,8 @@ export default function App() {
         {view !== 'detail' && (
           <div className="absolute bottom-6 left-4 right-4 bg-white/90 dark:bg-[#1E1E1E]/90 backdrop-blur-xl border border-white/20 dark:border-[#333] rounded-full shadow-2xl flex justify-around py-4 z-50 transition-all">
              <button onClick={() => setView('home')} className={`flex flex-col items-center gap-1 transition-all ${view === 'home' ? 'text-chef-primary scale-110' : 'text-chef-muted hover:text-chef-dark dark:hover:text-white'}`}>
-                <Search size={22} strokeWidth={view === 'home' ? 3 : 2} />
+                {/* 1. CAMBIO SOLICITADO: Lupa por Cuchillos */}
+                <UtensilsCrossed size={22} strokeWidth={view === 'home' ? 3 : 2} />
              </button>
              <button onClick={() => setView('pantry')} className={`flex flex-col items-center gap-1 transition-all ${view === 'pantry' ? 'text-chef-primary scale-110' : 'text-chef-muted hover:text-chef-dark dark:hover:text-white'}`}>
                 <Archive size={22} strokeWidth={view === 'pantry' ? 3 : 2} />
